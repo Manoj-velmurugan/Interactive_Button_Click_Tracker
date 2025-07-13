@@ -118,6 +118,7 @@ button.addEventListener("click", () => {
 })
 ```
 ## Output:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d57b0ba-5ef2-4f79-8501-1c3a96dd93a2" />
 
 ## Result:
 A mini module using JavaScript closure and scope is successfully implemented to build an interactive button click tracker that updates in real time without exposing internal variables.
